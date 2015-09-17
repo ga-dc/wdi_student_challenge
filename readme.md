@@ -24,3 +24,4 @@ Complete as many of the following sub-goals as you can. Hint: you'll need Javasc
 - If the visitor enters a number less than 0 or greater than 5, or something that is *not* a number, they are alerted that their input was incorrect.
 - If the visitor enters a number less than 0 or greater than 5, or something that is not a number, they are prompted to try again and prompted for a number. The process repeats until they enter correct input.
 - The visitor has the option to "quit", which redirects their browser to http://generalassemb.ly
+- Instead of the "Welcome" message being displayed as an alert, it is displayed as text on the webpage itself.
